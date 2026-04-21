@@ -146,6 +146,8 @@ Alternative GET method with query parameters
 3. **View Results**: Browse the job cards with title, company, and location
 4. **Visit Jobs**: Click "View Job →" to visit the original job posting
 
+![alt text](image.png)
+
 ## How It Works
 
 1. **Frontend**: User enters keywords and clicks search
